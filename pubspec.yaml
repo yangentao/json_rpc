@@ -1,6 +1,6 @@
 name: jsonrpc
 description: JSON RPC 2.0 for dart language.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/yangentao/json_rpc
 homepage: https://github.com/yangentao/json_rpc
 
